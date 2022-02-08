@@ -13,6 +13,11 @@ iframe {
   margin-left: auto;
 }
 
+.widget {
+  width: 80%;
+  height: 1350px;
+}
+
 .wrapper {
   flex: 1 0 auto;
 }
